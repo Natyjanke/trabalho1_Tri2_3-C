@@ -6,11 +6,11 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Você ganhou um ingresso para um grande festival de música. Como você aproveita",
+        // enunciado: "Você acorda sobressaltado da cama, com batidas na sua porta você sabe que são 04:30 da manhã. O que você faz?",
         alternativas: [
             {
-                texto: "Vou com meus amigos e aproveito cada momento!",
-                afirmacao: "Você valoriza a companhia dos amigos e sabe como se divertir em grupo."
+                texto: "você volta a dormir",
+                afirmacao: "Você abrira porta"
             },
             {
                 texto: "Aproveito para conhecer novas bandas e fazer novas amizades.",
