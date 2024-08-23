@@ -9,8 +9,8 @@ const perguntas = [
         // enunciado: "Você ?",
         alternativas: [
             {
-                texto: "você volta a dormir",
-                afirmacao: "Você abrira porta"
+                texto: "você ",
+                afirmacao: "Você"
             },
             {
                 texto: "Aproveito para conhecer novas bandas e fazer novas amizades.",
