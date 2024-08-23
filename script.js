@@ -9,12 +9,12 @@ const perguntas = [
      enunciado: "Você ganhou um ingresso para um show de música de um cantor que você não gosta",
         alternativas: [
             {
-                texto: "chama os amigos para não pelo menos se divertir",
-                afirmacao: "valoriza os amigos"
+                texto: "chama os amigos para pelo menos se divertir",
+                afirmacao: "valoriza os momento com os amigos"
             },
             {
                 texto: "chama sua irmã e sua prima",
-                afirmacao: "valoriza momentos em familia"
+                afirmacao: "valoriza momentos com sua familia"
             }
         ]
     },
