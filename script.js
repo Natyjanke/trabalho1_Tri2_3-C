@@ -6,37 +6,37 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-     enunciado: "Você ?",
+     enunciado: "Você ganhou um ingresso para um show de música de um cantor que você não gosta",
         alternativas: [
             {
-                texto: "você ",
-                afirmacao: "Você"
+                texto: "chama os amigos para não pelo menos se divertir",
+                afirmacao: "valoriza os amigos"
             },
             {
-                texto: "Aproveito para conhecer novas bandas e fazer novas amizades.",
-                afirmacao: "Você é curioso e adora expandir seu círculo social."
+                texto: "chama sua irmã e sua prima",
+                afirmacao: "valoriza momentos em familia"
             }
         ]
     },
     {
-        enunciado: "Nas férias de verão, você decide:",
+        enunciado: "nos fins de semana voce aproveia...",
         alternativas: [
             {
-                texto: "Viajar para a praia e relaxar ao máximo.",
-                afirmacao: "Você sabe a importância de descansar e recarregar as energias."
+                texto: "ir a um park e se divertir",
+                afirmacao: "gosta de sempre aproveitar seus tempos livres"
             },
             {
-                texto: "Fazer um curso rápido para aprender algo novo.",
-                afirmacao: "Você gosta de aproveitar o tempo para se desenvolver e adquirir novas habilidades."
+                texto: "ficando em casa e relachar",
+                afirmacao: "Você gosta de aproveitar o tempo com sigo mesma"
             }
         ]
     },
     {
-        enunciado: "Você encontrou um livro que estava procurando há muito tempo. O que você faz?",
+        enunciado: "Achei um jogo de cartas que procurava a um tempo. o que vai fazer?",
         alternativas: [
             {
-                texto: "Leio tudo de uma vez, não consigo esperar!",
-                afirmacao: "Você é apaixonado por leitura e se dedica completamente ao que gosta."
+                texto: "chamar minha irmã para jogar",
+                afirmacao: "Você se diverte muito"
             },
             {
                 texto: "Leio aos poucos, aproveitando cada página.",
