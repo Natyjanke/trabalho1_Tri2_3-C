@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        // enunciado: "Você acorda sobressaltado da cama, com batidas na sua porta você sabe que são 04:30 da manhã. O que você faz?",
+        // enunciado: "Você ?",
         alternativas: [
             {
                 texto: "você volta a dormir",
